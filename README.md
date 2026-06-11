@@ -61,18 +61,6 @@ This repository contains my learning journey and practical implementations of Na
 * N-grams
 * Feature Extraction
 
-## Repository Structure
-
-```text
-NLP/
-│
-├── notebooks/
-├── datasets/
-├── outputs/
-├── models/
-├── src/
-└── README.md
-```
 
 ## Sample Libraries
 
@@ -104,6 +92,6 @@ By completing this project, I gained hands-on experience in:
 
 ## Author
 
-**Manan Panwar**
+**Manan Singh Panwar**
 
 This repository is part of my continuous learning journey in Artificial Intelligence, Machine Learning, and Natural Language Processing.
